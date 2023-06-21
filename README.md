@@ -1,0 +1,3 @@
+# Graduates_manage_system
+数据库课设，毕业生管理系统，后端代码
+几个sql文件为创建对应表的sql语句，python源程序为创建数据库及数据的python实现
